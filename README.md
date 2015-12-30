@@ -1,4 +1,4 @@
-#Pre-work - TipsCalculator
+#Pre-work - TipCalculator
 
 # Tip Calculator
 Tip Calculator Application for Code Path Pre Work
