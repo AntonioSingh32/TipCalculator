@@ -1,3 +1,5 @@
+#Pre-work - TipsCalculator
+
 # TipsCalculator
 Tip Calculator Application for Code Path Pre Work
 
@@ -51,4 +53,19 @@ class ViewController: UIViewController {
     }
 }
 
+Tips Calculator is a tip calculator application for iOS.
+
+Submitted by: Antonio Singh
+
+Time spent: 7 hours spent in total
+
+
 ![My image](https://fat.gfycat.com/YellowishHandyAmericanavocet.gif)
+
+#User Stories
+
+* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+
+## Video Walkthrough
+
+<img src='https://fat.gfycat.com/YellowishHandyAmericanavocet.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
