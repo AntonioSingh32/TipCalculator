@@ -51,4 +51,7 @@ class ViewController: UIViewController {
     }
 }
 
-![alt tag](http://gfycat.com/YellowishHandyAmericanavocet)
+image:: http://gfycat.com/YellowishHandyAmericanavocet
+   :height: 100px
+   :width: 200 px
+   :scale: 50 %
