@@ -1,9 +1,9 @@
 #Pre-work - TipsCalculator
 
-# TipsCalculator
+# Tip Calculator
 Tip Calculator Application for Code Path Pre Work
 
-**Tips Calculator ** is a tip calculator application for iOS.
+**Tip Calculator ** is a tip calculator application for iOS.
 
 Submitted by: Antonio Singh
 
