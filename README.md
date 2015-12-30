@@ -66,3 +66,7 @@ Time spent: 7 hours spent in total
 ## Video Walkthrough
 
 <img src='https://fat.gfycat.com/YellowishHandyAmericanavocet.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+## Notes
+
+Only complications were during the function onTap because it repeatedly gave me the error "Editor placeholder in source code" whenever I added the bool view.endEditing. I finally fixed it by removing the force bool in parentheses and putting the value true in its place.
