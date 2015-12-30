@@ -53,7 +53,7 @@ class ViewController: UIViewController {
     }
 }
 
-Tips Calculator is a tip calculator application for iOS.
+**Tips Calculator ** is a tip calculator application for iOS.
 
 Submitted by: Antonio Singh
 
