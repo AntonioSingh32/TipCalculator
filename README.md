@@ -51,3 +51,4 @@ class ViewController: UIViewController {
     }
 }
 
+![alt tag](http://gfycat.com/YellowishHandyAmericanavocet)
